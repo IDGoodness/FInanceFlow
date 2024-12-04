@@ -40,9 +40,9 @@ const Carousel = () => {
           if (isCurrent) {
             positionClasses = "opacity-100 scale-100 z-20 translate-x-0";
           } else if (isPrev) {
-            positionClasses = "opacity-50 scale-90 z-10 -translate-x-[120%]";
+            positionClasses = "opacity-50 scale-90 z-10 -translate-x-[100%]";
           } else if (isNext) {
-            positionClasses = "opacity-50 scale-90 z-10 translate-x-[120%]";
+            positionClasses = "opacity-50 scale-90 z-10 translate-x-[100%]";
           }
 
           return (

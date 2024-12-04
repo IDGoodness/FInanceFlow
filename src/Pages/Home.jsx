@@ -269,8 +269,8 @@ const Home = () => {
         </div>
       </section>
 
-      <section className="lg:p-20" >
-        <div className="p-10 mt-20 block lg:flex justify-between">
+      <section className="lg:p-20 " >
+        <div className="p-10 mt-20 block lg:px-24 lg:flex justify-between">
           <p className="font-bold text-2xl font-sans text-center lg:text-left items-center ">
             What our users say?
           </p>
